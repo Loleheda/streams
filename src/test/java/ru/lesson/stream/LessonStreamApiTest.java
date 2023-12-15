@@ -114,6 +114,7 @@ public class LessonStreamApiTest {
         List<Employee> employees = Arrays.asList(
                 new Employee(1, "Ivan", 40),
                 new Employee(2, "Olga", 50),
+                new Employee(2, "Olga", 50),
                 new Employee(3, "John", 60),
                 new Employee(4, "John", 61));
 
